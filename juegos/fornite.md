@@ -38,4 +38,23 @@ Salvar el mundo: modo cooperativo donde se lucha contra enemigos del juego.
 La historia gira en torno a “la tormenta”, un fenómeno que afecta el mundo del juego. A lo largo de las temporadas, se desarrollan eventos en vivo y cambios en el mapa que conectan la narrativa y mantienen el juego en constante evolución.
 
 ---
+
 ![fornite](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDiVS5EW7d9jrpDi_imHhLGoCZc8matvtgA&s)
+
+---
+
+## ⭐ Aspectos positivos
+
+Fortnite destaca por su jugabilidad dinámica y accesible. Su mezcla de disparos y construcción lo hace diferente a otros juegos del género Battle Royale. Además, recibe actualizaciones constantes por parte de Epic Games, lo que mantiene el juego fresco con nuevos contenidos, eventos y colaboraciones.
+
+También sobresale por sus gráficos llamativos y su modo creativo, donde los jugadores pueden diseñar sus propios mapas y experiencias.
+
+## ⚠️ Aspectos negativos
+
+Uno de los principales problemas es su alta competitividad, lo que puede hacerlo difícil para jugadores nuevos. El sistema de construcción requiere práctica y puede ser frustrante al inicio.
+
+Además, aunque es gratuito, incluye muchas microtransacciones (skins, pases de batalla), lo que puede generar presión por gastar dinero. Algunos jugadores también critican que los cambios frecuentes afectan el equilibrio del juego.
+
+## 🎯 Conclusión
+
+Fortnite es un juego innovador y muy entretenido, especialmente si te gustan los juegos competitivos y en línea. Sin embargo, puede resultar exigente para principiantes y depender mucho de la práctica constante.
