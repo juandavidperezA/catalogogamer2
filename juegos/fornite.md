@@ -38,3 +38,4 @@ Salvar el mundo: modo cooperativo donde se lucha contra enemigos del juego.
 La historia gira en torno a “la tormenta”, un fenómeno que afecta el mundo del juego. A lo largo de las temporadas, se desarrollan eventos en vivo y cambios en el mapa que conectan la narrativa y mantienen el juego en constante evolución.
 
 ---
+![fornite](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYDiVS5EW7d9jrpDi_imHhLGoCZc8matvtgA&s)
